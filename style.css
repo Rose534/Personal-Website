@@ -1,0 +1,45 @@
+body {
+    background-color: #374d7d;
+}
+
+
+h2, h4, p , a{
+    color: #fff;
+}
+
+h1{
+    color: #F8C8D8;
+    padding-left: 90px;
+    padding-top: -45px;
+    font-family: serif;
+    
+}
+
+h4{
+    position: absolute;
+    left:500px;
+    margin-top: -45px;
+    font-size: 16px;
+    
+}
+
+p {
+    padding-left: 90px;
+    padding-bottom: 140px;
+    font-size: 15px;
+    font-family: monospace;
+
+}
+
+h2{
+    padding-left: 88px;
+    padding-top: 140px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#email{
+    padding-left: 150px;
+    position: absolute;
+    top: 350px;
+}
