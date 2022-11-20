@@ -38,10 +38,10 @@ h2{
     font-weight: bold;
 }
 
-#email{
-    padding-left: 150px;
+.email{
+    padding-left: 270px;
     position: absolute;
-    top: 350px;
+    top: 360px;
 }
 
 #insta {
